@@ -1,4 +1,4 @@
-# functional-programming-language
+# functional-programming
 🧼✨ A collection of programming exercises solved using the Clean functional language. This repository showcases functional programming concepts such as recursion, higher-order functions, and data structures such as list, tuples, and trees in Clean.
 
 ## 📚 Topics Covered
